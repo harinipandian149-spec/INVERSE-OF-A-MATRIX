@@ -20,7 +20,8 @@ To write a python program to find the inverse of a matrix
 ### a=np.array([[6,2,3],[3,1,1],[10,3,4]])
 ### b=np.linalg.inv(a)
 ### print(b)
-## Output:<img width="1920" height="1080" alt="Screenshot 2026-10-13 112017" src="https://github.com/user-attachments/assets/732f96a3-8dad-4fdd-a6f4-34a1267cc1d2" />
+## Output:
+<img width="1920" height="1080" alt="Screenshot 2026-10-13 112017" src="https://github.com/user-attachments/assets/732f96a3-8dad-4fdd-a6f4-34a1267cc1d2" />
 
 
 ## Result:
